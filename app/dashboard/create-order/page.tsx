@@ -16,7 +16,7 @@ import {
 import {Input} from "@/components/ui/Input";
 import {Label} from "@/components/ui/Label";
 import {Textarea} from "@/components/ui/Textarea";
-import {Map} from "@/components/ui/Map";
+import Map from "@/components/ui/Map";
 import {LatLng, Order} from "@/types";
 import {calculateFee} from "@/lib/map/distance";
 import {formatCurrency} from "@/lib/utils";

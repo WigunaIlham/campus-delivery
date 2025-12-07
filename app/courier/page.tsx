@@ -14,7 +14,8 @@ import {
   CardTitle,
 } from "@/components/ui/Card";
 import {Badge} from "@/components/ui/Badge";
-import {Map} from "@/components/ui/Map";
+import Map from "@/components/ui/Map";
+
 import {Order} from "@/types";
 import {LatLng} from "@/types";
 import {
